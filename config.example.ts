@@ -1,6 +1,6 @@
 const config: Config = {
     mode: 'WORLD', // 'CHINA' | 'WORLD'
-    botToken: '5844869741',
+    botToken: 'here token',
     keepFiles: {
         compared: true,
         input: true,
