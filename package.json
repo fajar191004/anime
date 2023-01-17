@@ -29,7 +29,7 @@
         "eslint": "^8.30.0"
     },
     "scripts": {
-        "start": "ts-node ./index.ts",
+        "start": "config.ts",
         "lint": "eslint ./*.ts"
     }
 }
